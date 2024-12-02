@@ -1,0 +1,2 @@
+### Scaffolding Code Using Packange Manager Console :
+Scaffold-DbContext 'Name=ConnectionStrings:EmployeeCRUDAPI' Npgsql.EntityFrameworkCore.PostgreSQL -Context EmployeeContext -ContextDir DAL/DBContext -o DAL/Entities -DataAnnotations -force
